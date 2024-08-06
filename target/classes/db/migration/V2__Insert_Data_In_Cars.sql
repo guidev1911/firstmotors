@@ -1,5 +1,5 @@
 ﻿INSERT INTO `cars` (`brand`, `model`, `year`, `price`, `color`, `units`, `speed`, `power`) VALUES
-('Lamborghini', 'Aventador SVJ', 2021, 517000.00, 'Verde Alcantara', 963, 350.00, 759),
+('Lamborghini', 'Avegitntador SVJ', 2021, 517000.00, 'Verde Alcantara', 963, 350.00, 759),
 ('Ferrari', '488 Pista', 2020, 330000.00, 'Rosso Corsa', 3500, 340.00, 710),
 ('McLaren', '720S', 2021, 299000.00, 'Papaya Spark', 1500, 341.00, 710),
 ('Porsche', '911 GT2 RS', 2019, 293200.00, 'Yellow', 1000, 340.00, 700),

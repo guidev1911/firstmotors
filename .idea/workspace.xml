@@ -42,6 +42,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.FirstmotorsApplication.executor": "Run",
+    "JUnit.CarServiceTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -59,7 +60,7 @@
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors\api" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CarServiceTest">
     <configuration name="FirstmotorsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.store.firstmotors.FirstmotorsApplication" />
       <module name="firstmotors" />
@@ -73,8 +74,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstmotors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.store.firstmotors.unitTests.mockito.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.store.firstmotors.unitTests.mockito.service" />
+      <option name="MAIN_CLASS_NAME" value="com.store.firstmotors.unitTests.mockito.service.CarServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CarServiceTest" />
         <item itemvalue="Application.FirstmotorsApplication" />
       </list>
     </recent_temporary>
