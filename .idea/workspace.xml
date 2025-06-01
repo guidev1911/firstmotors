@@ -38,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.FirstmotorsApplication.executor": "Run",
-    "JUnit.CarServiceTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/trabalhos/repositorios/rest_with_springboot-and-java-erudio"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.FirstmotorsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CarServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/trabalhos/repositorios/rest_with_springboot-and-java-erudio&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors\config" />
@@ -60,7 +60,7 @@
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors\api" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CarServiceTest">
+  <component name="RunManager" selected="Application.FirstmotorsApplication">
     <configuration name="FirstmotorsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.store.firstmotors.FirstmotorsApplication" />
       <module name="firstmotors" />
@@ -91,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CarServiceTest" />
         <item itemvalue="Application.FirstmotorsApplication" />
+        <item itemvalue="JUnit.CarServiceTest" />
       </list>
     </recent_temporary>
   </component>
