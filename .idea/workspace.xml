@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ca409d-6d7e-4db5-a2fb-1b11c898460d" name="Changes" comment="" />
+    <list default="true" id="33ca409d-6d7e-4db5-a2fb-1b11c898460d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/store/firstmotors/config/OpenApiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/store/firstmotors/config/OpenApiConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V2__Insert_Data_In_Cars.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2__Insert_Data_In_Cars.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/FirstmotorsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/FirstmotorsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/Controller/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/Controller/CarController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/VO/CarVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/VO/CarVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/model/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/api/model/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/config/OpenApiConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/config/OpenApiConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/mapper/DozerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/mapper/DozerMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/repository/CarRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/repository/CarRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/serealization/converter/YamlJackson2HttpMessageConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/serealization/converter/YamlJackson2HttpMessageConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/service/CarService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/domain/service/CarService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/ExceptionResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/ExceptionResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/RequiredObjectIsNullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/RequiredObjectIsNullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/ResourceNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/exceptionHandler/CustomizedResponseEntityExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/exceptions/exceptionHandler/CustomizedResponseEntityExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/store/firstmotors/util/MediaType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/store/firstmotors/util/MediaType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/FirstmotorsApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/FirstmotorsApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/unitTests/mapper/mocks/MockCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/unitTests/mapper/mocks/MockCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/unitTests/mockito/service/CarServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/store/firstmotors/unitTests/mockito/service/CarServiceTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -38,19 +62,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.FirstmotorsApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/trabalhos/repositorios/rest_with_springboot-and-java-erudio&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.FirstmotorsApplication.executor": "Run",
+    "JUnit.CarServiceTest.executor": "Run",
+    "Maven.firstmotors [clean,package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guisp/PROJETOS PESSOAIS/firstmotors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors\config" />
@@ -59,6 +84,11 @@
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors" />
       <recent name="D:\trabalhos\repositorios\firstmotors\src\main\java\com\store\firstmotors\api" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
   </component>
   <component name="RunManager" selected="Application.FirstmotorsApplication">
     <configuration name="FirstmotorsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

@@ -14,9 +14,9 @@ public class OpenApiConfig {
     OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("RESTful api with java 17 and Spring Boot 3.3.2")
+                        .title("RESTful api with java 21 and Spring Boot 3.3.2")
                         .version("v1")
-                        .description("Api de gerenciamento de estoque")
+                        .description("Api de gerenciamento de estoque de loja de carros")
                         .termsOfService("https://www.instagram.com/")
                         .license(
                                 new License().
