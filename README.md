@@ -52,10 +52,7 @@ Basta definir os headers `Content-Type` e/ou `Accept` na requisição.
 ### Passos para execução
 
 ```bash
-# 1. Buildar o projeto abrindo um cmd na pasta do projeto (se não conseguir por uma IDE)
-mvn clean package
-
-# 2. Subir os containers e construir a aplicação (é necessário docker estar em execussão)
+# 1. Subir os containers e construir a aplicação (é necessário docker estar em execussão)
 docker-compose up --build
 ```
 
